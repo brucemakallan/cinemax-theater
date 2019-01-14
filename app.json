@@ -1,0 +1,22 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "React Challenge: Used to Assign and Book seats, and Sell tickets for performances.",
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "cinemax-theater",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
