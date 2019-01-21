@@ -8,3 +8,5 @@ _Used to Assign and Book seats, and Sell tickets for performances._
 - The rest of the seats in the row A and B, and all seats in row C to F are Very VIP (VVIP) seats.
 - Row G to L are VIP seats.
 - Row M to Z are Economy seats.
+
+*For more informaton, read "challenge_description.pdf"*
