@@ -1,22 +1,14 @@
 {
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ],
+  "name": "StackOverflow-Lite-React",
   "description": "React Challenge: Used to Assign and Book seats, and Sell tickets for performances.",
-  "env": {
-  },
-  "formation": {
-    "web": {
-      "quantity": 1
-    }
-  },
-  "name": "cinemax-theater",
-  "scripts": {
-  },
-  "stack": "heroku-18"
+  "version": "0.1.0",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [],
+  "engines": {
+    "npm": "6.4.1",
+    "node": "8.12.0"
+  }
 }
