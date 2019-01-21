@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300');
+
+$bodyFontFamily: 'Montserrat', sans-serif;
+$headingFontFamily: 'Raleway', sans-serif;
+
+body {
+  font-family: $bodyFontFamily;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headingFontFamily;
+}
