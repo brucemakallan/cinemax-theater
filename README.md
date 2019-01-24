@@ -1,4 +1,7 @@
 # Cinemax Theater
+
+[![Build Status](https://travis-ci.org/brucemakallan/cinemax-theater.svg?branch=develop)](https://travis-ci.org/brucemakallan/cinemax-theater) [![Coverage Status](https://coveralls.io/repos/github/brucemakallan/cinemax-theater/badge.svg?branch=develop)](https://coveralls.io/github/brucemakallan/cinemax-theater?branch=develop)
+
 *React Challenge*
 
 _Used to Assign and Book seats, and Sell tickets for performances._
