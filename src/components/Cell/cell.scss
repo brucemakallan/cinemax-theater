@@ -1,0 +1,32 @@
+.cell {
+  width: 4.76%;
+  min-height: 30px;
+  padding: 5px;
+  display: inline-block;
+}
+.cellValue {
+  background-color: #eaeaea;
+  border-radius: 2px;
+
+  button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  button:hover {
+    color: green;
+  }
+}
+.vip {
+  background-color: rgb(105, 212, 105);
+}
+.vvip {
+  background-color: rgb(123, 182, 238);
+}
+.twin {
+  background-color: rgb(226, 245, 145);
+}
+.taken {
+  background-color: rgb(241, 166, 166);
+}

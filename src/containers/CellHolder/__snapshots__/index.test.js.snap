@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for <CellHolder /> should render correctly 1`] = `
+<CellHolder
+  id="A1"
+  type="normal"
+  value="*"
+>
+  <Cell
+    id="A1"
+    onClick={[Function]}
+    type="normal"
+    value="*"
+  >
+    <div
+      className="cell"
+    >
+      <div
+        className="cellValue normal"
+      >
+        <button
+          id="A1"
+          onClick={[Function]}
+          title="normal"
+          type="button"
+        >
+          <i
+            className="fas fa-chair"
+          />
+        </button>
+      </div>
+    </div>
+  </Cell>
+</CellHolder>
+`;
